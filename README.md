@@ -1,5 +1,5 @@
 - Hi there 🙋🏻‍♀️, I'm Juhi!
-- Third-year undergraduate Computer Science student @ UMass Amherst, USA 🇺🇸
+- Fourth-year undergraduate Computer Science student @ UMass Amherst, USA 🇺🇸
 - Tech geek 👩🏻‍💻, experienced in different tech fields -- AI/ML, SWE, Android 🤖
 - Passionate about deploying technology for the better good 🌱 ...
 
