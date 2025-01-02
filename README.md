@@ -1,5 +1,5 @@
 👋 Hi, I’m Juhi! 🙋🏻‍♀️  
-🎓 Fourth-year Computer Science and Psychology student at UMass Amherst, passionate about tech and human behavior.  
-🧠 Aspiring to revolutionize healthcare through AI—building systems that heal and support.  
+🎓 Fourth-year Computer Science and Psychology student at UMass Amherst, passionate about the intersection of tech and medicine.  
+🧠 Aspiring to transform healthcare through AI —- building systems that heal, support, and empower.  
 👩🏻‍💻 Experienced in AI/ML, SWE, and App Development 🤖, always eager to explore new tech frontiers.  
-🌱 Committed to creating impactful solutions that make the world a better place.  
+🌱 Dedicated to creating impactful solutions that make the world a better place.  
